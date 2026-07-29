@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+.vscode/
+.idea/
+ 
+# Ruby
+*.gem
+.bundle/
+ 
